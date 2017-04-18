@@ -1,6 +1,6 @@
 {
   "name": "funk-invaders",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Funk off",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,19 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/funk-overload/funk-invaders/issues"
   },
   "homepage": "https://github.com/funk-overload/funk-invaders#readme",
   "devDependencies": {
+    "brfs": "^1.4.3",
+    "source-map-loader": "^0.2.1",
+    "transform-loader": "^0.2.4",
+    "ts-loader": "^2.0.3",
     "webpack": "^2.4.1"
-  }
+  },
+  "dependencies": {
+    "pixi.js": "^4.5.0"
+}
 }
