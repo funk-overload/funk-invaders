@@ -1,0 +1,23 @@
+{
+  "name": "funk-invaders",
+  "version": "1.0.0",
+  "description": "Funk off",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funk-overload/funk-invaders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funk-overload/funk-invaders/issues"
+  },
+  "homepage": "https://github.com/funk-overload/funk-invaders#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
+}
